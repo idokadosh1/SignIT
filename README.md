@@ -10,7 +10,7 @@ Research Phase Outcome : Activity Diagram, Conceptual Diagram, NLP Workflow Diag
 
 Already Implemented : Speech Recognition, Output Display.
 
-Example : 
+Prototype: 
 
 https://www.youtube.com/watch?v=vB0-6J4bgRc 
 
